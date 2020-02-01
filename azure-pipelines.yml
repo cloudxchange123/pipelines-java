@@ -4,8 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 # pipeline test
 #demo
-#demopipelin
-
+#devops
 
 trigger:
 - master
